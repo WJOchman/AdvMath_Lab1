@@ -1,5 +1,5 @@
-# Advanced Mathematics for Engineeris
-# Laboratory 1 Part A: Continuous & Discrete Time
+<H1>Advanced Mathematics for Engineeris</h1>
+<h1>Laboratory 1 Part A: Continuous & Discrete Time</h1>
 
 The aim of this laboratory is to continue the process of learning the fundamentals of MATLAB such as data entry, plotting, and data handling as well as how to create a continous time singal x(t) and then sample the continuous time signal to produce a discrete time singal x[nT<sub>s</sub>].
 
@@ -15,9 +15,9 @@ The laboratory report will consist of the following:
   - Diagrams, figures, and tables of results
   - Discussion of your workings 
 
-## Laboratory 1 Part A:
-<h1>Task 1: Construction of Continuous Time Signal</h1>
-Task 2: Plotting of Continuous Time Signal
-Task 3: Continuous Time to Discrete Conversion
-Task 4: Displaying Results
-Task 5: Data Handling
+<h2>Laboratory 1 Part A:</h2>
+<h3>Task 1: Construction of Continuous Time Signal</h3>
+<h3>Task 2: Plotting of Continuous Time Signal</h3>
+<h3>Task 3: Continuous Time to Discrete Conversion</h3>
+<h3>Task 4: Displaying Results</h3>
+<h3>Task 5: Data Handling</h3>
