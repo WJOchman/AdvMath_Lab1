@@ -16,8 +16,8 @@ The laboratory report will consist of the following:
   - Discussion of your workings 
 
 ## Laboratory 1 Part A:
-Task 1:
-Task 2:
-Task 3:
-Task 4: 
-Task 5:
+<h1>Task 1: Construction of Continuous Time Signal</h1>
+Task 2: Plotting of Continuous Time Signal
+Task 3: Continuous Time to Discrete Conversion
+Task 4: Displaying Results
+Task 5: Data Handling
