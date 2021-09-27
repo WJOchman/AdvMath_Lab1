@@ -1,1 +1,5 @@
-# AdvMath_Lab1_PartA_Continuous_-_Discrete_Time
+# Advanced Mathematics for Engineeris
+# Laboratory 1 PartA: Continuous & Discrete Time
+
+
+
