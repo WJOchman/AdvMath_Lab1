@@ -18,6 +18,7 @@ The laboratory report will consist of the following:
 <h2>Laboratory 1 Part A:</h2>
 <h3>Task 1: Construction of Continuous Time Signal</h3>
 - Create a new MATLAB file and open a script file.
+<br>
 - All code written in the one script file
 <h3>Task 2: Plotting of Continuous Time Signal</h3>
 <h3>Task 3: Continuous Time to Discrete Conversion</h3>
