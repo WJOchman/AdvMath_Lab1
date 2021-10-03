@@ -17,9 +17,14 @@ The laboratory report will consist of the following:
 
 <h2>Laboratory 1 Part A:</h2>
 <h3>Task 1: Construction of Continuous Time Signal</h3>
-  1. Go to 'file', 'new' and open a script file. Give the file a sensible name (no white spaces between words) and save it. All your code will be written into this one script file.
-  2. Within the script file, construct a time base that ranges from 0s to 0.666s in increments of 0.001s. 
-  3. Next, write the code that will calculate a 3Hz sinewave over the specified time base (help 'sin'); assign the sine wave to a sensible variable name. 
+  <ol>
+    <li>1. Go to 'file', 'new' and open a script file. Give the file a sensible name (no white spaces between words) and save it. All your code will be written into this one script file.</li>
+    <li>2. Within the script file, construct a time base that ranges from 0s to 0.666s in increments of 0.001s.</li>
+    <li>3. Next, write the code that will calculate a 3Hz sinewave over the specified time base (help 'sin'); assign the sine wave to a sensible variable name.</li>
+  </ol>
+  
+   
+   
  
 <h3>Task 2: Plotting of Continuous Time Signal</h3>
 <h3>Task 3: Continuous Time to Discrete Conversion</h3>
