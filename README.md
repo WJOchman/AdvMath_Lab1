@@ -30,3 +30,5 @@ The laboratory report will consist of the following:
 <h3>Task 3: Continuous Time to Discrete Conversion</h3>
 <h3>Task 4: Displaying Results</h3>
 <h3>Task 5: Data Handling</h3>
+
+11th of October deadline
