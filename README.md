@@ -31,4 +31,16 @@ The laboratory report will consist of the following:
 <h3>Task 4: Displaying Results</h3>
 <h3>Task 5: Data Handling</h3>
 
+<h1>Report Draft</h1>
+<h2>Report Structure:</h2>
+<ol>
+  <li>Abstract</li>
+  <li>Introduction</li>
+  <li>Methodology</li>
+  <li>Results and Discussion</li>
+  <li>Conclusions</li>
+  <li>References</li>
+  <li>Appendices</li>
+</ol>
+
 11th of October deadline
