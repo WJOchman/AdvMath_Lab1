@@ -29,7 +29,17 @@ grid on;
 % The tick marks must be 14 font, bold, gca?? %
 
 % Task 3: Continuous time to discrete converstion %
+% Add code to your file in order that the continuous time signal is sampled at five times the nyquist rate to produce a discrete signal %
 
+Nyquist_frequency = ;
+Nyquist_rate = ;
+Sampling_frequency = ;
+Sampling_period = ;
+Num_of_Samples_Per_Period = ;
+Integer_Index = ;
+Sampling_interval = ;
+
+% Produce a stem plot of the resulting discrete signal (help 'stem') %
 
 
 % Task 4: Displaying Results %
