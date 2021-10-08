@@ -9,16 +9,24 @@ stop = 0.666;
 t = start : increment : stop; 
 
 x_c = sin(2*pi*3*t);
-plot (t, x_c);
+
+
+% t = time (s) %
+% x_c = continuous %
 
 % Task 2: Plotting of continous time signal %
 
-% time vs magnitude %
-% the trace must have a line of 2 %
-% A main title which ust be 16 font, bold, and color black %
-% The tick marks must be 14 font, bold %
-% The y-axis must range from -1.1 to +1.1 %
-% The plot must contain a grid %
+plot (t, x_c, 'LineWidth', 2); 
+ylim([-1.1 1.1]);
+[t] = title('Time vs. Magnitude', 'Color', 'black', 'FontWeight','bold');
+t.FontSize = 16;
+[x] = xlabel('Time (s)', 'color', 'black', 'FontWeight','bold');
+[y] = ylabel('Magnitude', 'color', 'black', 'FontWeight','bold');
+x.FontSize = 14;
+y.FontSize = 14;
+grid on; 
+
+% The tick marks must be 14 font, bold, gca?? %
 
 % Task 3: Continuous time to discrete converstion %
 
@@ -29,3 +37,9 @@ plot (t, x_c);
 
 
 % Task 5: Data Handling %
+
+
+% Task 6: Adjust the discrete signal in order that each sample is rounded up/down in order that it lies exactly upon a quantisation level. %
+
+
+% Task 7: Use the 'interpl' command to resample the signal by a factor of 2. Ivestigate the differences between 'linear' and 'spline' interpolation. %
