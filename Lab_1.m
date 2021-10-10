@@ -38,14 +38,11 @@ nTs = n * Sampling_Period;
 x_disc = sin(2*pi*3*nTs);
 stem(nTs,x_disc, 'LineWidth', 2, 'Color', 'red');
 
-
 % Task 4: Displaying Results %
 
 legend('sin(2*pi*3*t)','sin(2*pi*3*nTs)')
 fig = gcf;
 saveas(gcf,'figure1.jpeg');
-
-
 
 % Task 5: Data Handling %
 
