@@ -46,6 +46,10 @@ saveas(gcf,'figure1.jpeg');
 
 % Task 5: Data Handling %
 
+T = table(nTs,x_disc,'VariableNames',{'Discrete Time Data','Discrete Magnitude Data'});
+save('discrete_data.mat','T');
+writetable(T, 'discrete_data.txt');
+writetable(T,'discrete_data.xls');
 
 % Task 6: Adjust the discrete signal in order that each sample is rounded up/down in order that it lies exactly upon a quantisation level. %
 
