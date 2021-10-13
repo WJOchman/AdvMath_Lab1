@@ -43,4 +43,4 @@ The laboratory report will consist of the following:
   <li>Appendices</li>
 </ol>
 
-11th of October deadline
+Deadline has been moved to the 18th of October.
