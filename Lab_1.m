@@ -46,12 +46,13 @@ saveas(gcf,'figure1.jpeg');
 
 % Task 5: Data Handling %
 
-T = table(nTs,x_disc,'VariableNames',{'Discrete Time Data','Discrete Magnitude Data'});
-save('discrete_data.mat','T');
-writetable(T, 'discrete_data.txt');
-writetable(T,'discrete_data.xls');
+T = table(nTs(:),x_disc(:),'VariableNames',{'Discrete Time Data','Discrete Magnitude Data'});
+save('Lab1_data.mat','T');
+writetable(T, 'Lab1_data.txt');
+writetable(T,'Lab1_data.xls');
 
 % Task 6: Adjust the discrete signal in order that each sample is rounded up/down in order that it lies exactly upon a quantisation level. %
+
 
 
 % Task 7: Use the 'interpl' command to resample the signal by a factor of 2. Ivestigate the differences between 'linear' and 'spline' interpolation. %
