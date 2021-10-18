@@ -53,6 +53,11 @@ writetable(T,'Lab1_data.xls');
 
 % Task 6: Adjust the discrete signal in order that each sample is rounded up/down in order that it lies exactly upon a quantisation level. %
 
+for i = 1: length(x_disc)
+    x_disc(i) = round(x_disc(i),1,'significant');
+    %disp(x_disc(i))
+end 
 
+%This doesn't work
 
 % Task 7: Use the 'interpl' command to resample the signal by a factor of 2. Ivestigate the differences between 'linear' and 'spline' interpolation. %
